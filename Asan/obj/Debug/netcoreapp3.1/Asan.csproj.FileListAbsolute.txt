@@ -1,0 +1,208 @@
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.exe
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.deps.json
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.json
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.dev.json
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.dll
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.dll
+C:\Users\BGS\source\repos\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.AssemblyReference.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfoInputs.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfo.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CoreCompileInputs.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.Manifest.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.input.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.output.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorCoreGenerate.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cs
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.dll
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.genruntimeconfig.cache
+C:\Users\BGS\source\repos\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CopyComplete
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.exe
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.deps.json
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.json
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.dev.json
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.AssemblyReference.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfoInputs.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CoreCompileInputs.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.Manifest.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.xml
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asan.styles.css
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.input.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.output.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorCoreGenerate.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CopyComplete
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.dll
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\m.sepasi\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.genruntimeconfig.cache
+C:\Users\m.sepasi\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.StaticWebAssets.xml
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.exe
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.deps.json
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.json
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.dev.json
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BGS\Desktop\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.AssemblyReference.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfoInputs.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfo.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CoreCompileInputs.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorAssemblyInfo.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.Manifest.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.input.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.TagHelpers.output.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorCoreGenerate.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cache
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cs
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.Views.pdb
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CopyComplete
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.dll
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\BGS\Desktop\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.genruntimeconfig.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.exe
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.deps.json
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.json
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.runtimeconfig.dev.json
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Asan.Views.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfoInputs.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.AssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CoreCompileInputs.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.Manifest.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\staticwebassets\Asan.StaticWebAssets.xml
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asan.styles.css
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.RazorTargetAssemblyInfo.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.CopyComplete
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.dll
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.pdb
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.genruntimeconfig.cache
+C:\Users\m.sepasi\Desktop\New folder (2)\Asan\Asan\obj\Debug\netcoreapp3.1\Asan.csproj.AssemblyReference.cache
